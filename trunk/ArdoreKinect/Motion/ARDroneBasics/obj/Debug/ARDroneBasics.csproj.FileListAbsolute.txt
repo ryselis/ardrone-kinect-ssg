@@ -1,0 +1,14 @@
+C:\Users\Justas\Downloads\shtejv-ARDrone-Control-.NET-1.2.0-1-gaad4d90\shtejv-ARDrone-Control-.NET-aad4d90\ARDroneBasics\bin\Debug\ARDroneBasics.dll
+C:\Users\Justas\Downloads\shtejv-ARDrone-Control-.NET-1.2.0-1-gaad4d90\shtejv-ARDrone-Control-.NET-aad4d90\ARDroneBasics\bin\Debug\ARDroneBasics.pdb
+C:\Users\Justas\Downloads\shtejv-ARDrone-Control-.NET-1.2.0-1-gaad4d90\shtejv-ARDrone-Control-.NET-aad4d90\ARDroneBasics\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Justas\Downloads\shtejv-ARDrone-Control-.NET-1.2.0-1-gaad4d90\shtejv-ARDrone-Control-.NET-aad4d90\ARDroneBasics\obj\Debug\ARDroneBasics.dll
+C:\Users\Justas\Downloads\shtejv-ARDrone-Control-.NET-1.2.0-1-gaad4d90\shtejv-ARDrone-Control-.NET-aad4d90\ARDroneBasics\obj\Debug\ARDroneBasics.pdb
+C:\Users\sm1th\Desktop\CameraFundamentalsNew\CameraFundamentals\ARDroneBasics\bin\Debug\ARDroneBasics.dll
+C:\Users\sm1th\Desktop\CameraFundamentalsNew\CameraFundamentals\ARDroneBasics\bin\Debug\ARDroneBasics.pdb
+C:\Users\sm1th\Desktop\CameraFundamentalsNew\CameraFundamentals\ARDroneBasics\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sm1th\Desktop\CameraFundamentalsNew\CameraFundamentals\ARDroneBasics\obj\Debug\ARDroneBasics.dll
+C:\Users\sm1th\Desktop\CameraFundamentalsNew\CameraFundamentals\ARDroneBasics\obj\Debug\ARDroneBasics.pdb
+L:\Drone\ArdoreKinect\Motion\ARDroneBasics\bin\Debug\ARDroneBasics.dll
+L:\Drone\ArdoreKinect\Motion\ARDroneBasics\bin\Debug\ARDroneBasics.pdb
+L:\Drone\ArdoreKinect\Motion\ARDroneBasics\obj\Debug\ARDroneBasics.dll
+L:\Drone\ArdoreKinect\Motion\ARDroneBasics\obj\Debug\ARDroneBasics.pdb

@@ -1,0 +1,20 @@
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\CameraFundamentalsNew\CameraFundamentals\ARDroneControlLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\CameraFundamentalsNew\CameraFundamentals\bin\Debug\ARDroneControlLibrary\ARDrone.Control.dll
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\CameraFundamentalsNew\CameraFundamentals\bin\Debug\ARDroneControlLibrary\ARDrone.Control.pdb
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\CameraFundamentalsNew\CameraFundamentals\ARDroneControlLibrary\obj\Release\ARDrone.Control.dll
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\CameraFundamentalsNew\CameraFundamentals\ARDroneControlLibrary\obj\Release\ARDrone.Control.pdb
+D:\backup\ARDrone\ArdoreKinect\Motion\bin\Debug\ARDroneControlLibrary\ARDrone.Control.dll
+D:\backup\ARDrone\ArdoreKinect\Motion\bin\Debug\ARDroneControlLibrary\ARDrone.Control.pdb
+D:\backup\ARDrone\ArdoreKinect\Motion\ARDroneControlLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\backup\ARDrone\ArdoreKinect\Motion\ARDroneControlLibrary\obj\Release\ARDrone.Control.dll
+D:\backup\ARDrone\ArdoreKinect\Motion\ARDroneControlLibrary\obj\Release\ARDrone.Control.pdb
+C:\Users\Hakas\Documents\ARDrone\ArdoreKinect\Motion\bin\Debug\ARDroneControlLibrary\ARDrone.Control.dll
+C:\Users\Hakas\Documents\ARDrone\ArdoreKinect\Motion\bin\Debug\ARDroneControlLibrary\ARDrone.Control.pdb
+C:\Users\Hakas\Documents\ARDrone\ArdoreKinect\Motion\ARDroneControlLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Hakas\Documents\ARDrone\ArdoreKinect\Motion\ARDroneControlLibrary\obj\Release\ARDrone.Control.dll
+C:\Users\Hakas\Documents\ARDrone\ArdoreKinect\Motion\ARDroneControlLibrary\obj\Release\ARDrone.Control.pdb
+L:\Drone\ArdoreKinect\Motion\bin\Debug\ARDroneControlLibrary\ARDrone.Control.dll
+L:\Drone\ArdoreKinect\Motion\bin\Debug\ARDroneControlLibrary\ARDrone.Control.pdb
+L:\Drone\ArdoreKinect\Motion\ARDroneControlLibrary\obj\Release\ARDroneControlLibrary.csprojResolveAssemblyReference.cache
+L:\Drone\ArdoreKinect\Motion\ARDroneControlLibrary\obj\Release\ARDrone.Control.dll
+L:\Drone\ArdoreKinect\Motion\ARDroneControlLibrary\obj\Release\ARDrone.Control.pdb

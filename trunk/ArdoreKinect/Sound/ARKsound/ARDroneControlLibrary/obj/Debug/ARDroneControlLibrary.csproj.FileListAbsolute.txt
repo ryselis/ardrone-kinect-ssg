@@ -1,0 +1,30 @@
+C:\Users\Justas\Downloads\shtejv-ARDrone-Control-.NET-1.2.0-1-gaad4d90\shtejv-ARDrone-Control-.NET-aad4d90\bin\Debug\ARDroneControlLibrary\ARDrone.Control.dll
+C:\Users\Justas\Downloads\shtejv-ARDrone-Control-.NET-1.2.0-1-gaad4d90\shtejv-ARDrone-Control-.NET-aad4d90\bin\Debug\ARDroneControlLibrary\ARDrone.Control.pdb
+C:\Users\Justas\Downloads\shtejv-ARDrone-Control-.NET-1.2.0-1-gaad4d90\shtejv-ARDrone-Control-.NET-aad4d90\ARDroneControlLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Justas\Downloads\shtejv-ARDrone-Control-.NET-1.2.0-1-gaad4d90\shtejv-ARDrone-Control-.NET-aad4d90\ARDroneControlLibrary\obj\Debug\ARDrone.Control.dll
+C:\Users\Justas\Downloads\shtejv-ARDrone-Control-.NET-1.2.0-1-gaad4d90\shtejv-ARDrone-Control-.NET-aad4d90\ARDroneControlLibrary\obj\Debug\ARDrone.Control.pdb
+C:\Users\Justas\Desktop\ARK\bin\Debug\ARDroneControlLibrary\ARDrone.Control.dll
+C:\Users\Justas\Desktop\ARK\bin\Debug\ARDroneControlLibrary\ARDrone.Control.pdb
+C:\Users\Justas\Desktop\ARK\ARDroneControlLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Justas\Desktop\ARK\ARDroneControlLibrary\obj\Debug\ARDrone.Control.dll
+C:\Users\Justas\Desktop\ARK\ARDroneControlLibrary\obj\Debug\ARDrone.Control.pdb
+C:\Users\sm1th\Desktop\ARK\ARK\bin\Debug\ARDroneControlLibrary\ARDrone.Control.dll
+C:\Users\sm1th\Desktop\ARK\ARK\bin\Debug\ARDroneControlLibrary\ARDrone.Control.pdb
+C:\Users\sm1th\Desktop\ARK\ARK\ARDroneControlLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sm1th\Desktop\ARK\ARK\ARDroneControlLibrary\obj\Debug\ARDrone.Control.dll
+C:\Users\sm1th\Desktop\ARK\ARK\ARDroneControlLibrary\obj\Debug\ARDrone.Control.pdb
+C:\Users\sm1th\Desktop\ARK\bin\Debug\ARDroneControlLibrary\ARDrone.Control.dll
+C:\Users\sm1th\Desktop\ARK\bin\Debug\ARDroneControlLibrary\ARDrone.Control.pdb
+C:\Users\sm1th\Desktop\ARK\ARDroneControlLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sm1th\Desktop\ARK\ARDroneControlLibrary\obj\Debug\ARDrone.Control.dll
+C:\Users\sm1th\Desktop\ARK\ARDroneControlLibrary\obj\Debug\ARDrone.Control.pdb
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\ARKsound\bin\Debug\ARDroneControlLibrary\ARDrone.Control.dll
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\ARKsound\bin\Debug\ARDroneControlLibrary\ARDrone.Control.pdb
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\ARKsound\ARDroneControlLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\ARKsound\ARDroneControlLibrary\obj\Debug\ARDrone.Control.dll
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\ARKsound\ARDroneControlLibrary\obj\Debug\ARDrone.Control.pdb
+C:\Users\Justas\Desktop\ARdrone02-23\ARKsound\bin\Debug\ARDroneControlLibrary\ARDrone.Control.dll
+C:\Users\Justas\Desktop\ARdrone02-23\ARKsound\bin\Debug\ARDroneControlLibrary\ARDrone.Control.pdb
+C:\Users\Justas\Desktop\ARdrone02-23\ARKsound\ARDroneControlLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Justas\Desktop\ARdrone02-23\ARKsound\ARDroneControlLibrary\obj\Debug\ARDrone.Control.dll
+C:\Users\Justas\Desktop\ARdrone02-23\ARKsound\ARDroneControlLibrary\obj\Debug\ARDrone.Control.pdb
