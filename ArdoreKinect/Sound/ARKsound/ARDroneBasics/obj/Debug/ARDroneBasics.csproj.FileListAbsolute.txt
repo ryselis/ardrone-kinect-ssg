@@ -1,0 +1,25 @@
+C:\Users\Justas\Downloads\shtejv-ARDrone-Control-.NET-1.2.0-1-gaad4d90\shtejv-ARDrone-Control-.NET-aad4d90\ARDroneBasics\bin\Debug\ARDroneBasics.dll
+C:\Users\Justas\Downloads\shtejv-ARDrone-Control-.NET-1.2.0-1-gaad4d90\shtejv-ARDrone-Control-.NET-aad4d90\ARDroneBasics\bin\Debug\ARDroneBasics.pdb
+C:\Users\Justas\Downloads\shtejv-ARDrone-Control-.NET-1.2.0-1-gaad4d90\shtejv-ARDrone-Control-.NET-aad4d90\ARDroneBasics\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Justas\Downloads\shtejv-ARDrone-Control-.NET-1.2.0-1-gaad4d90\shtejv-ARDrone-Control-.NET-aad4d90\ARDroneBasics\obj\Debug\ARDroneBasics.dll
+C:\Users\Justas\Downloads\shtejv-ARDrone-Control-.NET-1.2.0-1-gaad4d90\shtejv-ARDrone-Control-.NET-aad4d90\ARDroneBasics\obj\Debug\ARDroneBasics.pdb
+C:\Users\sm1th\Desktop\ARK\ARK\ARDroneBasics\bin\Debug\ARDroneBasics.dll
+C:\Users\sm1th\Desktop\ARK\ARK\ARDroneBasics\bin\Debug\ARDroneBasics.pdb
+C:\Users\sm1th\Desktop\ARK\ARK\ARDroneBasics\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sm1th\Desktop\ARK\ARK\ARDroneBasics\obj\Debug\ARDroneBasics.dll
+C:\Users\sm1th\Desktop\ARK\ARK\ARDroneBasics\obj\Debug\ARDroneBasics.pdb
+C:\Users\sm1th\Desktop\ARK\ARDroneBasics\bin\Debug\ARDroneBasics.dll
+C:\Users\sm1th\Desktop\ARK\ARDroneBasics\bin\Debug\ARDroneBasics.pdb
+C:\Users\sm1th\Desktop\ARK\ARDroneBasics\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sm1th\Desktop\ARK\ARDroneBasics\obj\Debug\ARDroneBasics.dll
+C:\Users\sm1th\Desktop\ARK\ARDroneBasics\obj\Debug\ARDroneBasics.pdb
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\ARKsound\ARDroneBasics\bin\Debug\ARDroneBasics.dll
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\ARKsound\ARDroneBasics\bin\Debug\ARDroneBasics.pdb
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\ARKsound\ARDroneBasics\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\ARKsound\ARDroneBasics\obj\Debug\ARDroneBasics.dll
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\ARKsound\ARDroneBasics\obj\Debug\ARDroneBasics.pdb
+C:\Users\Justas\Desktop\ARdrone02-23\ARKsound\ARDroneBasics\bin\Debug\ARDroneBasics.dll
+C:\Users\Justas\Desktop\ARdrone02-23\ARKsound\ARDroneBasics\bin\Debug\ARDroneBasics.pdb
+C:\Users\Justas\Desktop\ARdrone02-23\ARKsound\ARDroneBasics\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Justas\Desktop\ARdrone02-23\ARKsound\ARDroneBasics\obj\Debug\ARDroneBasics.dll
+C:\Users\Justas\Desktop\ARdrone02-23\ARKsound\ARDroneBasics\obj\Debug\ARDroneBasics.pdb

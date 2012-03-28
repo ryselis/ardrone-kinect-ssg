@@ -1,0 +1,89 @@
+C:\Users\Justas\Desktop\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneKinect.exe
+C:\Users\Justas\Desktop\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneKinect.pdb
+C:\Users\Justas\Desktop\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDrone.Control.dll
+C:\Users\Justas\Desktop\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneBasics.dll
+C:\Users\Justas\Desktop\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\Justas\Desktop\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Justas\Desktop\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDrone.Control.pdb
+C:\Users\Justas\Desktop\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneBasics.pdb
+C:\Users\Justas\Desktop\ARK\ARDroneKinect\ARDroneKinect\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Justas\Desktop\ARK\ARDroneKinect\ARDroneKinect\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Justas\Desktop\ARK\ARDroneKinect\ARDroneKinect\obj\x86\Debug\ARDroneKinect.exe
+C:\Users\Justas\Desktop\ARK\ARDroneKinect\ARDroneKinect\obj\x86\Debug\ARDroneKinect.pdb
+C:\Users\Justas\Desktop\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Justas\Desktop\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\sm1th\Desktop\ARK\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneKinect.exe.config
+C:\Users\sm1th\Desktop\ARK\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneKinect.exe
+C:\Users\sm1th\Desktop\ARK\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneKinect.pdb
+C:\Users\sm1th\Desktop\ARK\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDrone.Control.dll
+C:\Users\sm1th\Desktop\ARK\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\sm1th\Desktop\ARK\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneBasics.dll
+C:\Users\sm1th\Desktop\ARK\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\sm1th\Desktop\ARK\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDrone.Control.pdb
+C:\Users\sm1th\Desktop\ARK\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\sm1th\Desktop\ARK\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneBasics.pdb
+C:\Users\sm1th\Desktop\ARK\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\sm1th\Desktop\ARK\ARK\ARDroneKinect\ARDroneKinect\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sm1th\Desktop\ARK\ARK\ARDroneKinect\ARDroneKinect\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sm1th\Desktop\ARK\ARK\ARDroneKinect\ARDroneKinect\obj\x86\Debug\ARDroneKinect.exe
+C:\Users\sm1th\Desktop\ARK\ARK\ARDroneKinect\ARDroneKinect\obj\x86\Debug\ARDroneKinect.pdb
+C:\Users\sm1th\Desktop\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneKinect.exe.config
+C:\Users\sm1th\Desktop\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneKinect.exe
+C:\Users\sm1th\Desktop\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneKinect.pdb
+C:\Users\sm1th\Desktop\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDrone.Control.dll
+C:\Users\sm1th\Desktop\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\sm1th\Desktop\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneBasics.dll
+C:\Users\sm1th\Desktop\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\sm1th\Desktop\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDrone.Control.pdb
+C:\Users\sm1th\Desktop\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\sm1th\Desktop\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneBasics.pdb
+C:\Users\sm1th\Desktop\ARK\ARDroneKinect\ARDroneKinect\bin\x86\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\sm1th\Desktop\ARK\ARDroneKinect\ARDroneKinect\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sm1th\Desktop\ARK\ARDroneKinect\ARDroneKinect\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sm1th\Desktop\ARK\ARDroneKinect\ARDroneKinect\obj\x86\Debug\ARDroneKinect.exe
+C:\Users\sm1th\Desktop\ARK\ARDroneKinect\ARDroneKinect\obj\x86\Debug\ARDroneKinect.pdb
+C:\Users\sm1th\Desktop\ARKsound\ARDroneKinect\ARDroneKinect\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sm1th\Desktop\ARKsound\ARDroneKinect\ARDroneKinect\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sm1th\Desktop\ARKsound\ARDroneKinect\ARDroneKinect\obj\x86\Debug\ARDroneKinect.exe
+C:\Users\sm1th\Desktop\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneKinect.exe.config
+C:\Users\sm1th\Desktop\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneKinect.exe
+C:\Users\sm1th\Desktop\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneKinect.pdb
+C:\Users\sm1th\Desktop\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDrone.Control.dll
+C:\Users\sm1th\Desktop\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\sm1th\Desktop\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneBasics.dll
+C:\Users\sm1th\Desktop\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\sm1th\Desktop\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDrone.Control.pdb
+C:\Users\sm1th\Desktop\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\sm1th\Desktop\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneBasics.pdb
+C:\Users\sm1th\Desktop\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\sm1th\Desktop\ARKsound\ARDroneKinect\ARDroneKinect\obj\x86\Debug\ARDroneKinect.pdb
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\ARKsound\ARDroneKinect\ARDroneKinect\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\ARKsound\ARDroneKinect\ARDroneKinect\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\ARKsound\ARDroneKinect\ARDroneKinect\obj\x86\Debug\ARDroneKinect.exe
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\ARKsound\ARDroneKinect\ARDroneKinect\obj\x86\Debug\ARDroneKinect.pdb
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneKinect.exe.config
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneKinect.exe
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneKinect.pdb
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDrone.Control.dll
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneBasics.dll
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDrone.Control.pdb
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneBasics.pdb
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Justas\Desktop\ARdrone02-23\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneKinect.exe.config
+C:\Users\Justas\Desktop\ARdrone02-23\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneKinect.exe
+C:\Users\Justas\Desktop\ARdrone02-23\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneKinect.pdb
+C:\Users\Justas\Desktop\ARdrone02-23\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDrone.Control.dll
+C:\Users\Justas\Desktop\ARdrone02-23\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Justas\Desktop\ARdrone02-23\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneBasics.dll
+C:\Users\Justas\Desktop\ARdrone02-23\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Justas\Desktop\ARdrone02-23\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDrone.Control.pdb
+C:\Users\Justas\Desktop\ARdrone02-23\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Justas\Desktop\ARdrone02-23\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\ARDroneBasics.pdb
+C:\Users\Justas\Desktop\ARdrone02-23\ARKsound\ARDroneKinect\ARDroneKinect\bin\x86\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Justas\Desktop\ARdrone02-23\ARKsound\ARDroneKinect\ARDroneKinect\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Justas\Desktop\ARdrone02-23\ARKsound\ARDroneKinect\ARDroneKinect\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Justas\Desktop\ARdrone02-23\ARKsound\ARDroneKinect\ARDroneKinect\obj\x86\Debug\ARDroneKinect.exe
+C:\Users\Justas\Desktop\ARdrone02-23\ARKsound\ARDroneKinect\ARDroneKinect\obj\x86\Debug\ARDroneKinect.pdb

@@ -1,0 +1,128 @@
+C:\Users\danielfe\Desktop\KinectforWindowsSDK\Beta2\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Release\CameraFundamentals.exe
+C:\Users\danielfe\Desktop\KinectforWindowsSDK\Beta2\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Release\CameraFundamentals.pdb
+C:\Users\danielfe\Desktop\KinectforWindowsSDK\Beta2\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\danielfe\Desktop\KinectforWindowsSDK\Beta2\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\danielfe\Desktop\KinectforWindowsSDK\Beta2\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\danielfe\Desktop\KinectforWindowsSDK\Beta2\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\danielfe\Desktop\KinectforWindowsSDK\Beta2\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\MainWindow.baml
+C:\Users\danielfe\Desktop\KinectforWindowsSDK\Beta2\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\MainWindow.g.cs
+C:\Users\danielfe\Desktop\KinectforWindowsSDK\Beta2\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\App.g.cs
+C:\Users\danielfe\Desktop\KinectforWindowsSDK\Beta2\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals_MarkupCompile.cache
+C:\Users\danielfe\Desktop\KinectforWindowsSDK\Beta2\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.g.resources
+C:\Users\danielfe\Desktop\KinectforWindowsSDK\Beta2\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.Properties.Resources.resources
+C:\Users\danielfe\Desktop\KinectforWindowsSDK\Beta2\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\danielfe\Desktop\KinectforWindowsSDK\Beta2\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\danielfe\Desktop\KinectforWindowsSDK\Beta2\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.exe
+C:\Users\danielfe\Desktop\KinectforWindowsSDK\Beta2\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.pdb
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\CameraFundamentalsNew\CameraFundamentals\CameraFundamentals\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\CameraFundamentalsNew\CameraFundamentals\CameraFundamentals\obj\x86\Release\MainWindow.baml
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\CameraFundamentalsNew\CameraFundamentals\CameraFundamentals\obj\x86\Release\MainWindow.g.cs
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\CameraFundamentalsNew\CameraFundamentals\CameraFundamentals\obj\x86\Release\App.g.cs
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\CameraFundamentalsNew\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals_MarkupCompile.cache
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\CameraFundamentalsNew\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.g.resources
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\CameraFundamentalsNew\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.Properties.Resources.resources
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\CameraFundamentalsNew\CameraFundamentals\CameraFundamentals\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\CameraFundamentalsNew\CameraFundamentals\CameraFundamentals\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\CameraFundamentalsNew\CameraFundamentals\CameraFundamentals\bin\Release\CameraFundamentals.exe
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\CameraFundamentalsNew\CameraFundamentals\CameraFundamentals\bin\Release\CameraFundamentals.pdb
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\CameraFundamentalsNew\CameraFundamentals\CameraFundamentals\bin\Release\ARDrone.Control.dll
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\CameraFundamentalsNew\CameraFundamentals\CameraFundamentals\bin\Release\ARDroneBasics.dll
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\CameraFundamentalsNew\CameraFundamentals\CameraFundamentals\bin\Release\ARDroneBasics.pdb
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\CameraFundamentalsNew\CameraFundamentals\CameraFundamentals\bin\Release\ARDrone.Control.pdb
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\CameraFundamentalsNew\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.exe
+C:\Users\Justas\Desktop\ArDrone Kinect Project\ArDrone Kinect Project\CameraFundamentalsNew\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.pdb
+C:\Users\Justas\Desktop\Motion\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.exe
+C:\Users\Justas\Desktop\Motion\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.pdb
+C:\Users\Justas\Desktop\Motion\CameraFundamentals\CameraFundamentals\bin\Release\CameraFundamentals.exe
+C:\Users\Justas\Desktop\Motion\CameraFundamentals\CameraFundamentals\bin\Release\CameraFundamentals.pdb
+C:\Users\Justas\Desktop\Motion\CameraFundamentals\CameraFundamentals\bin\Release\ARDrone.Control.dll
+C:\Users\Justas\Desktop\Motion\CameraFundamentals\CameraFundamentals\bin\Release\ARDroneBasics.dll
+C:\Users\Justas\Desktop\Motion\CameraFundamentals\CameraFundamentals\bin\Release\ARDroneBasics.pdb
+C:\Users\Justas\Desktop\Motion\CameraFundamentals\CameraFundamentals\bin\Release\ARDrone.Control.pdb
+C:\Users\Justas\Desktop\Motion\CameraFundamentals\CameraFundamentals\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Justas\Desktop\Motion\CameraFundamentals\CameraFundamentals\obj\x86\Release\MainWindow.baml
+C:\Users\Justas\Desktop\Motion\CameraFundamentals\CameraFundamentals\obj\x86\Release\MainWindow.g.cs
+C:\Users\Justas\Desktop\Motion\CameraFundamentals\CameraFundamentals\obj\x86\Release\App.g.cs
+C:\Users\Justas\Desktop\Motion\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals_MarkupCompile.cache
+C:\Users\Justas\Desktop\Motion\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.g.resources
+C:\Users\Justas\Desktop\Motion\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.Properties.Resources.resources
+C:\Users\Justas\Desktop\Motion\CameraFundamentals\CameraFundamentals\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Justas\Desktop\Motion\CameraFundamentals\CameraFundamentals\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.exe
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.pdb
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\CameraFundamentals\CameraFundamentals\bin\Release\CameraFundamentals.exe
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\CameraFundamentals\CameraFundamentals\bin\Release\CameraFundamentals.pdb
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\CameraFundamentals\CameraFundamentals\bin\Release\ARDrone.Control.dll
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\CameraFundamentals\CameraFundamentals\bin\Release\ARDroneBasics.dll
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\CameraFundamentals\CameraFundamentals\bin\Release\ARDroneBasics.pdb
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\CameraFundamentals\CameraFundamentals\bin\Release\ARDrone.Control.pdb
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\CameraFundamentals\CameraFundamentals\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\CameraFundamentals\CameraFundamentals\obj\x86\Release\MainWindow.baml
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\CameraFundamentals\CameraFundamentals\obj\x86\Release\MainWindow.g.cs
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\CameraFundamentals\CameraFundamentals\obj\x86\Release\App.g.cs
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals_MarkupCompile.cache
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.g.resources
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.Properties.Resources.resources
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\CameraFundamentals\CameraFundamentals\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\CameraFundamentals\CameraFundamentals\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\Motion\CameraFundamentals\bin\Release\MotionKinect.exe
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\Motion\CameraFundamentals\bin\Release\MotionKinect.pdb
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\Motion\CameraFundamentals\bin\Release\ARDrone.Control.dll
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\Motion\CameraFundamentals\bin\Release\ARDroneBasics.dll
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\Motion\CameraFundamentals\bin\Release\ARDroneBasics.pdb
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\Motion\CameraFundamentals\bin\Release\ARDrone.Control.pdb
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\Motion\CameraFundamentals\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\Motion\CameraFundamentals\obj\x86\Release\MainWindow.baml
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\Motion\CameraFundamentals\obj\x86\Release\MainWindow.g.cs
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\Motion\CameraFundamentals\obj\x86\Release\App.g.cs
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\Motion\CameraFundamentals\obj\x86\Release\MotionKinect_MarkupCompile.cache
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\Motion\CameraFundamentals\obj\x86\Release\MotionKinect.g.resources
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\Motion\CameraFundamentals\obj\x86\Release\CameraFundamentals.Properties.Resources.resources
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\Motion\CameraFundamentals\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\Motion\CameraFundamentals\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\Motion\CameraFundamentals\obj\x86\Release\MotionKinect.exe
+C:\Users\Tomas\Desktop\ARdrone02-23\ARdrone02-23\Motion\Motion\CameraFundamentals\obj\x86\Release\MotionKinect.pdb
+D:\backup\ARDrone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\MotionKinect.exe
+D:\backup\ARDrone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\MotionKinect.pdb
+D:\backup\ARDrone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\ResolveAssemblyReference.cache
+D:\backup\ARDrone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\MainWindow.baml
+D:\backup\ARDrone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\MainWindow.g.cs
+D:\backup\ARDrone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\App.g.cs
+D:\backup\ARDrone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\MotionKinect_MarkupCompile.cache
+D:\backup\ARDrone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\MotionKinect.g.resources
+D:\backup\ARDrone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\CameraFundamentals.Properties.Resources.resources
+D:\backup\ARDrone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\GenerateResource.read.1.tlog
+D:\backup\ARDrone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Hakas\Documents\ARDrone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\MotionKinect.exe
+C:\Users\Hakas\Documents\ARDrone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\MotionKinect.pdb
+C:\Users\Hakas\Documents\ARDrone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Hakas\Documents\ARDrone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\MainWindow.baml
+C:\Users\Hakas\Documents\ARDrone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\MainWindow.g.cs
+C:\Users\Hakas\Documents\ARDrone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\App.g.cs
+C:\Users\Hakas\Documents\ARDrone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\MotionKinect_MarkupCompile.cache
+C:\Users\Hakas\Documents\ARDrone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\MotionKinect.g.resources
+C:\Users\Hakas\Documents\ARDrone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\CameraFundamentals.Properties.Resources.resources
+C:\Users\Hakas\Documents\ARDrone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Hakas\Documents\ARDrone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Hakas\Documents\ARDrone\ArdoreKinect\Motion\CameraFundamentals\bin\Release\MotionKinect.exe
+C:\Users\Hakas\Documents\ARDrone\ArdoreKinect\Motion\CameraFundamentals\bin\Release\MotionKinect.pdb
+C:\Users\Hakas\Documents\ARDrone\ArdoreKinect\Motion\CameraFundamentals\bin\Release\ARDrone.Control.dll
+C:\Users\Hakas\Documents\ARDrone\ArdoreKinect\Motion\CameraFundamentals\bin\Release\ARDroneBasics.dll
+C:\Users\Hakas\Documents\ARDrone\ArdoreKinect\Motion\CameraFundamentals\bin\Release\ARDroneBasics.pdb
+C:\Users\Hakas\Documents\ARDrone\ArdoreKinect\Motion\CameraFundamentals\bin\Release\ARDrone.Control.pdb
+L:\Drone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\MotionKinect.exe
+L:\Drone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\MotionKinect.pdb
+L:\Drone\ArdoreKinect\Motion\CameraFundamentals\bin\Release\MotionKinect.exe
+L:\Drone\ArdoreKinect\Motion\CameraFundamentals\bin\Release\MotionKinect.pdb
+L:\Drone\ArdoreKinect\Motion\CameraFundamentals\bin\Release\ARDrone.Control.dll
+L:\Drone\ArdoreKinect\Motion\CameraFundamentals\bin\Release\ARDroneBasics.dll
+L:\Drone\ArdoreKinect\Motion\CameraFundamentals\bin\Release\ARDroneBasics.pdb
+L:\Drone\ArdoreKinect\Motion\CameraFundamentals\bin\Release\ARDrone.Control.pdb
+L:\Drone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\CameraFundamentals.csprojResolveAssemblyReference.cache
+L:\Drone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\MainWindow.baml
+L:\Drone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\MainWindow.g.cs
+L:\Drone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\App.g.cs
+L:\Drone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\MotionKinect_MarkupCompile.cache
+L:\Drone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\MotionKinect.g.resources
+L:\Drone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\CameraFundamentals.Properties.Resources.resources
+L:\Drone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Release\CameraFundamentals.csproj.GenerateResource.Cache
