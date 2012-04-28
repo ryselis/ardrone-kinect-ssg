@@ -55,6 +55,10 @@ namespace CameraFundamentals
         private Timer _tflyleft;
         private Timer _tflyright;
         private Timer _takingOff;
+        private Timer _tflyup;
+        private Timer _tflydown;
+        private Timer _tup;
+        private Timer _tdown;
 
         private bool takeOffCom;
         private bool conMassage;
@@ -79,6 +83,10 @@ namespace CameraFundamentals
             imgTakeOff = false;
 
 
+            WindowState = WindowState.Normal;
+            WindowStyle = WindowStyle.None;
+            Topmost = true;
+            WindowState = WindowState.Maximized;
             InitializeDrone();
             InitializeKinect();
             InitializeTimers();
@@ -89,7 +97,7 @@ namespace CameraFundamentals
         private void InitializeDrone()
         {
             _drone = new DroneControler(ref label1);
-            //_drone.ConnectToNetwork();
+            _drone.ConnectToNetwork();
         }
 
         private void InitializeKinect()
@@ -247,69 +255,45 @@ namespace CameraFundamentals
         // judesiai ir drono elgesys
         private void UpdateMotion(float gameTime)
         {
-            
-            // bandom kad parasytu tiesiog koki veiksma rodai
+            float gaz = Gaz();
+            float pitch = Pitch();
+            float disp = Disp();
+            float rot = Rotate();
+            labelgaz.Content = -1 * gaz;
+            labelpitch.Content = pitch;
+            labeldisp.Content = disp;
+            labelrotate.Content = rot;
 
-            if (KinectMotion.leftHandStraight(_nui.head, _nui.lhand, _nui.lshoulder,
-                _nui.rshoulder, _nui.chip))
+            if (!_drone.droneControl.IsConnected)
             {
-                label2.Content = "leftHandStraight";
+                _drone.Connect();
             }
-
-            if (KinectMotion.rightHandStraight(_nui.head, _nui.rhand, _nui.lshoulder,
-                _nui.rshoulder, _nui.chip))
-            {
-                label2.Content = "rightHandStraight";
-            }
-
-            if (KinectMotion.rightHandRaised(_nui.head, _nui.rhand))
-            {
-                label2.Content = "rightHandRaised";
-            }
-            
-            if (KinectMotion.leftHandRaised(_nui.head, _nui.lhand))
-            {
-                label2.Content = "leftHandRaised";
-            }
-
-            if (KinectMotion.rightHandForward(_nui.head, _nui.rhand, _nui.lshoulder,
-                _nui.rshoulder, _nui.chip))
-            {
-                label2.Content = "rightHandForward";
-            }
-
-            if (KinectMotion.rightHandBackward(_nui.head, _nui.rhand, _nui.lshoulder,
-                _nui.rshoulder, _nui.chip))
-            {
-                label2.Content = "rightHandBackward";
-            }
-
-            // ----------------------------------------------------------------
-
-
-            
-            
-           /* if (_drone.droneControl.IsConnected)
+            if (_drone.droneControl.IsConnected)
             {
                 if (!_drone.droneControl.IsFlying)
                 {
                     updateTakeOff(gameTime);
+                    label1.Content = "Not Flying; UpdateTakeOff";
+                    label2.Content = "Laukiama";
                 }
 
                 if (!conMassage)
                 {
                     conMassage = true;
                     _drone.FlatTrim();
+                    label1.Content = "conMassage; FlatTrim";
+                    label2.Content = "Stabilizuoti";
                 }
 
                 if (takeOffCom && !_drone.droneControl.IsFlying)
                 {
-                    label1.Content = "Motion - Take off";
-                    label2.Content = "Judesys - Pakilti";
+                    label1.Content = "takeOffCom";
+                    label2.Content = "Pakilti";
                     _drone.Takeoff();
                     takeOffCom = false;
                     islanding = false;
                     _takingOff = new Timer(1500);
+                    return;
                 }
             }
 
@@ -318,103 +302,170 @@ namespace CameraFundamentals
 
             if (_drone.droneControl.IsFlying && takeOffCom == false)
             {
-                if ((KinectMotion.leftHandStraight(_nui.head, _nui.lhand, _nui.lshoulder, _nui.rshoulder, _nui.chip)) &&
-                    (KinectMotion.rightHandStraight(_nui.head, _nui.rhand, _nui.lshoulder, _nui.rshoulder, _nui.chip)))
+                if (KinectMotion.HandsDown(_nui.lhand, _nui.rhand, _nui.chip))
                 {
+                    label1.Content = "HandsDown";
                     _drone.Land();
                     islanding = true;
-                    label2.Content = "Judesys - Nusileisti";
+                    label2.Content = "Land";
+                    return;
                 }
             }
 
-            if (_drone.droneControl.IsFlying && UpdateTimer(ref _takingOff, _drone.droneControl.IsFlying, gameTime))
+            if (_drone.droneControl.IsFlying && UpdateTimer(ref _takingOff, gameTime))
             {
-                if (UpdateTimer(ref _trotleft, KinectMotion.leftHandRaised(_nui.head, _nui.lhand) && !KinectMotion.rightHandStraight(_nui.head, _nui.rhand, _nui.lshoulder, _nui.rshoulder, _nui.chip), gameTime))
+                if (islanding == false && command == false)
                 {
 
-                    _drone.Navigate(0, 0, -1, 0);
-                    label2.Content = "Judesys - Suktis kairėn";
-                    command = true;
-                    return;
-                }
+                    if (UpdateTimer(ref _tflyleft, gameTime))
+                    {
+                        label1.Content = "Navigate";
+                        label2.Content = "FlySomewhere";
+                        _drone.Navigate(disp, 0, 0, 0);
+                        command = true;
+                    }
+                    if (UpdateTimer(ref _tforward, gameTime))
+                    {
+                       // _drone.Navigate(0, gaz, 0, 0);
+                        command = true;
+                    }
+                    if (UpdateTimer(ref _trotleft, gameTime))
+                    {
 
-                if (UpdateTimer(ref _trotright, KinectMotion.rightHandRaised(_nui.head, _nui.rhand) && !KinectMotion.leftHandStraight(_nui.head, _nui.lhand, _nui.lshoulder, _nui.rshoulder, _nui.chip), gameTime))
-                {
-                    _drone.Navigate(0, 0, 1, 0);
-                    label2.Content = "Judesys - Suktis dešinėn";
-                    command = true;
-                    return;
-                }
+                        _drone.Navigate(0, 0, rot, 0);
+                        command = true;
+                    }
+                    if (UpdateTimer(ref _tflyup, gameTime))
+                    {
 
-                if (UpdateTimer(ref _tforward, KinectMotion.rightHandForward(_nui.head, _nui.rhand, _nui.lshoulder, _nui.rshoulder, _nui.chip), gameTime))
-                {
-                    _drone.Navigate(0, -0.1f, 0, 0);
-                    label2.Content = "Judesys - Pirmyn";
-                    command = true;
+                        //_drone.Navigate(0, 0, 0, pitch);
+                        command = true;
+                    }
                     return;
-                }
-                if (UpdateTimer(ref _tbackward, KinectMotion.rightHandBackward(_nui.head, _nui.rhand, _nui.lshoulder, _nui.rshoulder, _nui.chip), gameTime))
-                {
-                    _drone.Navigate(0, 0.1f, 0, 0);
-                    label2.Content = "Judesys - Atgal";
-                    command = true;
-                    return;
-                }
-                if (UpdateTimer(ref _tflyleft, (KinectMotion.rightHandRaised(_nui.head, _nui.rhand)) &&
-                        (KinectMotion.leftHandStraight(_nui.head, _nui.lhand, _nui.lshoulder, _nui.rshoulder, _nui.chip)), gameTime))
-                {
-                    _drone.Navigate(-0.1f, 0, 0, 0);
-                    label2.Content = "Judesys - Skristi kairėn";
-                    command = true;
-                    return;
-                }
-                if (UpdateTimer(ref _tflyright, KinectMotion.leftHandRaised(_nui.head, _nui.lhand) &&
-                        KinectMotion.rightHandStraight(_nui.head, _nui.rhand, _nui.lshoulder, _nui.rshoulder, _nui.chip), gameTime))
-                {
-                    _drone.Navigate(0.1f, 0, 0, 0);
-                    label2.Content = "Judesys - Skristi dešinėn";
-                    command = true;
-                    return;
+
                 }
                 if (islanding == false && command == true)
                 {
+                    label1.Content = "Wait";
                     _drone.Navigate(0, 0, 0, 0);
                     command = false;
                 }
 
-            }*/
+            }
+
+
+
+
+
+           
+
+        //    if (_drone.droneControl.IsConnected)
+        //    {
+        //        if (Emergency())
+        //        {
+        //            _drone.Emergency();
+        //            return;
+        //        }
+        //        if (!Land())
+        //        {
+        //            if (!_drone.droneControl.IsFlying)
+        //            {
+        //                if (_drone.droneControl.CanTakeoff)
+        //                {
+        //                    UpdateTimer(ref _takingOff, gameTime);
+        //                    _drone.Takeoff();
+        //                    return;
+        //                }
+        //            }
+        //        }
+        //        else
+        //        {
+        //            if (_drone.droneControl.IsFlying)
+        //            {
+        //                if (_drone.droneControl.CanLand)
+        //                {
+        //                    _drone.Land();
+        //                    return;
+        //                }
+        //            }
+        //        }
+        //        if (UpdateTimer(ref _tbackward, gameTime))
+        //        {
+        //            _drone.Navigate(Disp(), Gaz(), Rotate(), Pitch());
+        //        }
+
+        //    }
         }
 
+        private float Gaz()
+        {
+            return KinectMotion.Gaz(_nui.lhand, _nui.rhand, _nui.lshoulder, _nui.rshoulder, _nui.cshoulder);
+        }
 
-        private bool UpdateTimer(ref Timer t, bool isacc, float gt)
+        private float Pitch()
+        {
+            return KinectMotion.Pitch(_nui.lhand, _nui.rhand, _nui.lshoulder, _nui.rshoulder, _nui.cshoulder);
+        }
+
+        private float Disp()
+        {
+            return KinectMotion.Disp(_nui.lhand, _nui.rhand, _nui.lshoulder, _nui.rshoulder, _nui.cshoulder);
+        }
+
+        private float Rotate()
+        {
+            return KinectMotion.Rotate(_nui.lhand, _nui.rhand, _nui.lshoulder, _nui.rshoulder, _nui.cshoulder);
+        }
+
+        private bool Land()
+        {
+            return KinectMotion.HandsDown(_nui.lhand, _nui.rhand, _nui.chip);
+        }
+
+        private bool Emergency()
+        {
+            return KinectMotion.Emergency(_nui.lhand, _nui.rhand, _nui.head);
+        }
+
+        private bool UpdateTimer(ref Timer t, float gt)
         {
             if (t != null)
             {
-                if (isacc)
-                {
-                    t.update(gt);
-                    if (t.finnish)
-                        return true;
-                    else
-                        return false;
-                }
+                t.update(gt);
+                if (t.finnish)
+                    return true;
                 else
-                {
-                    t = null;
                     return false;
-                }
             }
             else
             {
-                if (isacc)
-                {
-                    t = new Timer(750);
-                    return false;
-                }
+                t = new Timer(750);
                 return false;
             }
         }
 
+        private bool UpdateTimer(ref Timer t1, ref Timer t2, ref Timer t3, ref Timer t4, float gt)
+        {
+            if (t1 != null && t2!= null && t3 != null && t4 != null)
+            {
+                t1.update(gt);
+                t2.update(gt);
+                t3.update(gt);
+                t4.update(gt);
+                if (t1.finnish && t2.finnish && t3.finnish && t4.finnish)
+                    return true;
+                else
+                    return false;
+            }
+            else
+            {
+                t1 = new Timer(750);
+                t2 = new Timer(750);
+                t3 = new Timer(750);
+                t4 = new Timer(750);
+                return false;
+            }
+        }
         private void updateTakeOff(float dt)
         {
             if (_nui.isSkeleton && !takeOffCom)
@@ -423,8 +474,7 @@ namespace CameraFundamentals
                     _timer = new Timer(3000);
                 else
                 {
-                    if ((KinectMotion.leftHandRaised(_nui.head, _nui.lhand)) &&
-                    (KinectMotion.rightHandRaised(_nui.head, _nui.rhand)))
+                    if (!KinectMotion.HandsDown(_nui.lhand, _nui.rhand, _nui.chip))
                     {
                         _timer.update(dt);
                         if (_timer.finnish)
@@ -440,11 +490,11 @@ namespace CameraFundamentals
         }
 
 
-       /* private void SetNewDroidImage()
+        private void SetNewDroidImage()
         {
             if (_drone.droneControl.ImageSourceImage != null)
                image3.Source = _drone.droneControl.ImageSourceImage;
-        }*/
+        }
 
         private void timerStatusUpdate_Tick(object sender, EventArgs e)
         {
@@ -487,7 +537,7 @@ namespace CameraFundamentals
         
         private void timerVideoUpdate_Tick(object sender, EventArgs e)
         {
-         //   SetNewDroidImage();
+            SetNewDroidImage();
         }
         
         private void Window_Loaded(object sender, RoutedEventArgs e)
@@ -516,8 +566,18 @@ namespace CameraFundamentals
             }
             else if (keyEvent.Key == Key.Space)
             {
-                _drone.Land();
+                if (_drone.droneControl.IsConnected)
+                {
+                    _drone.Land();
+                    _drone.Disconnect();
+                }
+                _nui.StopKinect();
             }
+        }
+
+        private void image3_ImageFailed(object sender, ExceptionRoutedEventArgs e)
+        {
+
         }
     }
 }

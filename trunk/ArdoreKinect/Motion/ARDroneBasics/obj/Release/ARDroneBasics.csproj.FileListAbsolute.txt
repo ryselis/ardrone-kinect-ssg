@@ -18,3 +18,8 @@ L:\Drone\ArdoreKinect\Motion\ARDroneBasics\bin\Release\ARDroneBasics.pdb
 L:\Drone\ArdoreKinect\Motion\ARDroneBasics\obj\Release\ARDroneBasics.csprojResolveAssemblyReference.cache
 L:\Drone\ArdoreKinect\Motion\ARDroneBasics\obj\Release\ARDroneBasics.dll
 L:\Drone\ArdoreKinect\Motion\ARDroneBasics\obj\Release\ARDroneBasics.pdb
+E:\C# projektai\Ardrone-Kinect\ARDroneBasics\bin\Release\ARDroneBasics.dll
+E:\C# projektai\Ardrone-Kinect\ARDroneBasics\bin\Release\ARDroneBasics.pdb
+E:\C# projektai\Ardrone-Kinect\ARDroneBasics\obj\Release\ARDroneBasics.csprojResolveAssemblyReference.cache
+E:\C# projektai\Ardrone-Kinect\ARDroneBasics\obj\Release\ARDroneBasics.dll
+E:\C# projektai\Ardrone-Kinect\ARDroneBasics\obj\Release\ARDroneBasics.pdb
