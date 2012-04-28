@@ -120,7 +120,7 @@ namespace CameraFundamentals
 
         public void Disconnect()
         {
-            droneControl.Disconnect();
+            //droneControl.Disconnect();
             UpdateUISync("Atsijungti nuo Drono");
         }
 

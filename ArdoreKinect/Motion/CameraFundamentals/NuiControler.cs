@@ -39,6 +39,7 @@ namespace CameraFundamentals
         public Joint chip;
         public Joint lshoulder;
         public Joint rshoulder;
+        public Joint cshoulder;
 
         public bool hasImg;
 
@@ -273,6 +274,7 @@ namespace CameraFundamentals
             chip = first.Joints[JointType.HipCenter];
             lshoulder = first.Joints[JointType.ShoulderLeft];
             rshoulder = first.Joints[JointType.ShoulderRight];
+            cshoulder = first.Joints[JointType.ShoulderCenter];
             
 
         }

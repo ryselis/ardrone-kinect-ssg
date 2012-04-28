@@ -126,3 +126,18 @@ L:\Drone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Debug\CameraFundamentals
 L:\Drone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Debug\CameraFundamentals.csproj.GenerateResource.Cache
 L:\Drone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Debug\MotionKinect.exe
 L:\Drone\ArdoreKinect\Motion\CameraFundamentals\obj\x86\Debug\MotionKinect.pdb
+E:\C# projektai\Ardrone-Kinect\CameraFundamentals\bin\Debug\MotionKinect.exe.config
+E:\C# projektai\Ardrone-Kinect\CameraFundamentals\obj\x86\Debug\CameraFundamentals.csprojResolveAssemblyReference.cache
+E:\C# projektai\Ardrone-Kinect\CameraFundamentals\obj\x86\Debug\MainWindow.baml
+E:\C# projektai\Ardrone-Kinect\CameraFundamentals\obj\x86\Debug\MainWindow.g.cs
+E:\C# projektai\Ardrone-Kinect\CameraFundamentals\obj\x86\Debug\App.g.cs
+E:\C# projektai\Ardrone-Kinect\CameraFundamentals\obj\x86\Debug\MotionKinect_MarkupCompile.cache
+E:\C# projektai\Ardrone-Kinect\CameraFundamentals\obj\x86\Debug\MotionKinect.g.resources
+E:\C# projektai\Ardrone-Kinect\CameraFundamentals\obj\x86\Debug\CameraFundamentals.Properties.Resources.resources
+E:\C# projektai\Ardrone-Kinect\CameraFundamentals\obj\x86\Debug\CameraFundamentals.csproj.GenerateResource.Cache
+E:\C# projektai\Ardrone-Kinect\CameraFundamentals\bin\Debug\MotionKinect.exe
+E:\C# projektai\Ardrone-Kinect\CameraFundamentals\bin\Debug\MotionKinect.pdb
+E:\C# projektai\Ardrone-Kinect\CameraFundamentals\bin\Debug\ARDrone.Control.dll
+E:\C# projektai\Ardrone-Kinect\CameraFundamentals\bin\Debug\ARDroneBasics.dll
+E:\C# projektai\Ardrone-Kinect\CameraFundamentals\obj\x86\Debug\MotionKinect.exe
+E:\C# projektai\Ardrone-Kinect\CameraFundamentals\obj\x86\Debug\MotionKinect.pdb
